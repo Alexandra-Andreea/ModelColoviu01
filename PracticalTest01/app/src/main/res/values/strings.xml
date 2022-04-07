@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+
+    <string name="navigate_to_secondary_action_edit_button">NAVIGATE TO SECONDARY ACTIVITY</string>
+    <string name="left_edit_text">0</string>
+    <string name="right_edit_text">0</string>
+
+    <string name="left_button">PRESS ME!</string>
+    <string name="right_button">PRESS ME TOO!</string>
+
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
